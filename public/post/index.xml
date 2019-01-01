@@ -18,8 +18,7 @@
       
       <guid>/2019/01/01/starting-a-new-learning-journey/</guid>
       <description>With the new year comes new resolutions, and creating this post on this website is one of them! I’ve created this website, with the help of the glorious blogdown package, to achieve some analysis goals. There is really only one goal and that is to LEARN TO DO ANALYSIS! But I’ve broken down that goal into smaller parts for the sake of over planning:
-{{&amp;lt; tweet 1079495206603538433 &amp;gt;}}
-On this website intend to write up my reflections on the courses I take, the projects I involve myself in, and the studying techniques I invoke.</description>
+blogdown::shortcode(&amp;#39;tweet&amp;#39;, &amp;#39;1079495206603538433&amp;#39;)My #RStats goals for 2019:</description>
     </item>
     
   </channel>
