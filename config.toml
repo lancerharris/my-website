@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Lancerharris Learns"
 theme = "hugo-lithium"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "www-lancerharris-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
