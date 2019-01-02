@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Lancerharris Learns"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "UA-131527908-1"
 disqusShortname = "www-lancerharris-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
