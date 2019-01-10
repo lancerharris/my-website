@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lancerharris Learns</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Lancerharris Learns</description>
+    <title>Machine Learning on Lancerharris Learns</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Lancerharris Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</guid>
       <description>I’ve finished the Introduction to machine learning with R course and wanted to write about the course and share my notes on the first couple of chapters.
 Thoughts on the course as a whole This course was longer than your typical DataCamp course but was well worth the extra time. I think I’ve been half consciously half subconsciously afraid to start machine learning for a while, thinking that I wasn’t ready for the abstract nature of the subject.</description>
-    </item>
-    
-    <item>
-      <title>Starting a new learning journey</title>
-      <link>/2019/01/01/starting-a-new-learning-journey/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/01/starting-a-new-learning-journey/</guid>
-      <description>With the new year comes new resolutions, and creating this post on this website is one of them! I’ve created this website, with the help of the glorious blogdown package, to achieve some analysis goals. There is really only one goal and that is to LEARN TO DO ANALYSIS! But I’ve broken down that goal into smaller parts for the sake of over planning:
-My #RStats goals for 2019:</description>
     </item>
     
   </channel>

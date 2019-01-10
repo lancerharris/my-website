@@ -6,10 +6,20 @@
     <description>Recent content on Lancerharris Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 15:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working through DataCamp’s: Introduction to Machine Learning with R</title>
+      <link>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</guid>
+      <description>I’ve finished the Introduction to machine learning with R course and wanted to write about the course and share my notes on the first couple of chapters.
+Thoughts on the course as a whole This course was longer than your typical DataCamp course but was well worth the extra time. I think I’ve been half consciously half subconsciously afraid to start machine learning for a while, thinking that I wasn’t ready for the abstract nature of the subject.</description>
+    </item>
     
     <item>
       <title>About</title>
