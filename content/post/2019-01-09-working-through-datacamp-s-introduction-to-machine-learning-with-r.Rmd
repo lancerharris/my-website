@@ -196,11 +196,15 @@ What you want most from clustering is at least conceptually simple. I want the d
 
 Here is an example of 4 sharpshooters named "A", "B", "C", and "D". "A" has the best within group similarity, followed closely by "B", and "C". "D" has atrocious within group similarity and causes the difference between groups to be much too small.
 
-!["targets"][/images/sharpshooter.png]
+```{r echo=FALSE}
+knitr::include_graphics('/images/sharpshooter.png')
+```
 
 the problem with clustering here can be seen if I remove the differentiating colors. If this was done and I had to make a best guess on which shooter was which I would probably divide them up equally and pick the dots that were closest to each target center.
 
-!["targets one color"][/images/sharpshooter_one_color.png]
+```{r echo=FALSE}
+knitr::include_graphics('/images/sharpshooter_one_color.png')
+```
 
 # Testing and training
 To maximize the predictive power of our models we break our data into training sets and test sets and base our performance measures on the predictions made using the test set. If a model that learns from a training set performs well on the test set, then a good model may be in the making. There is a trade-off when choosing the size of the testing and training sets though, I want the training set to be large enough to make a good model and the testing set to be large enough to produce meaningful performance measures.
