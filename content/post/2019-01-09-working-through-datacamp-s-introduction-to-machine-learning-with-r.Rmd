@@ -221,4 +221,4 @@ All models will have error and if it can be reduced then it should be. The error
 As a machine learning algorithm gets more specific it picks up more and more noise and its variance increases, the model is becoming overfit. To make our models pick up less noise we have to make them less specific. But in the process of simplification we pick up less signal as well, thus moving us further from the truth, increasing bias, and towards underfitting the model. Models that are easier to explain are usually simpler and will have higher bias than those models that are more complex with higher variance.
 
 # Conclusion
-These have been my notes on only the first two chapters. There is much more detail and subject matter in the course. My interest has been peaked and am now excited to take additional courses on machine learning.
+These have been my notes on only the first two chapters. There is much more detail and subject matter in the course. My interest has been peaked and I am now excited to take additional courses on machine learning.

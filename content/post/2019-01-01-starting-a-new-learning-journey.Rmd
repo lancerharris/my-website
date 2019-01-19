@@ -14,7 +14,7 @@ With the new year comes new resolutions, and creating this post on this website 
 blogdown::shortcode('tweet', '1079495206603538433')
 ```
 
-On this website intend to write up my reflections on the courses I take, the projects I involve myself in, and the studying techniques I invoke. Each week I hope to have up at least a single new post. This is going to be difficult for a slew of reasons, here are a few:
+On this website I intend to write up my reflections on the courses I take, the projects I involve myself in, and the studying techniques I invoke. Each week I hope to have up at least a single new post. This is going to be difficult for a slew of reasons, here are a few:
 
 * I have to learn blogdown and git (I've already embarked on these with the creation of this site!)
 * I don't know how to write and, like the analysis, I'm going with the learn and post as I go approach.
