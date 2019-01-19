@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Datacamp on Lancerharris Learns</title>
-    <link>/tags/datacamp/</link>
-    <description>Recent content in Datacamp on Lancerharris Learns</description>
+    <title>Multiple Regression on Lancerharris Learns</title>
+    <link>/tags/multiple-regression/</link>
+    <description>Recent content in Multiple Regression on Lancerharris Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/datacamp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/multiple-regression/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/2019/01/19/notes-on-datacamp-s-course-multiple-and-logistic-regression/</guid>
       <description>I’ve finished DataCamp’s course Multiple and Logistic Regression and have left with a much better understanding of both topics. Of particular interest to me was learning what it means to add more than one explanatory variable to a model, what interaction terms do to a model, and how to interpret the scales of a logistic regression model. In other statistics courses I have taken I did not learn that adding another categorical explanatory variable to a model leads to what is called the “parallel slopes model”, nor did I know that adding a categorical interaction term had a geometric interpretation of two lines with differing slopes.</description>
-    </item>
-    
-    <item>
-      <title>Working through DataCamp’s: Introduction to Machine Learning with R</title>
-      <link>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</guid>
-      <description>I’ve finished the Introduction to machine learning with R course and wanted to write about the course and share my notes on the first couple of chapters.
-Thoughts on the course as a whole This course was longer than your typical DataCamp course but was well worth the extra time. I think I’ve been half consciously half subconsciously afraid to start machine learning for a while, thinking that I wasn’t ready for the abstract nature of the subject.</description>
     </item>
     
   </channel>

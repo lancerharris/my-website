@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Lancerharris Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Datacamp</title>
       <link>/tags/datacamp/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/datacamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic Regression</title>
+      <link>/tags/logistic-regression/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/logistic-regression/</guid>
       <description></description>
     </item>
     
@@ -26,6 +35,15 @@
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Regression</title>
+      <link>/tags/multiple-regression/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiple-regression/</guid>
       <description></description>
     </item>
     

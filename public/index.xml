@@ -6,10 +6,19 @@
     <description>Recent content on Lancerharris Learns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notes on DataCamp’s course: Multiple and Logistic Regression</title>
+      <link>/2019/01/19/notes-on-datacamp-s-course-multiple-and-logistic-regression/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/19/notes-on-datacamp-s-course-multiple-and-logistic-regression/</guid>
+      <description>I’ve finished DataCamp’s course Multiple and Logistic Regression and have left with a much better understanding of both topics. Of particular interest to me was learning what it means to add more than one explanatory variable to a model, what interaction terms do to a model, and how to interpret the scales of a logistic regression model. In other statistics courses I have taken I did not learn that adding another categorical explanatory variable to a model leads to what is called the “parallel slopes model”, nor did I know that adding a categorical interaction term had a geometric interpretation of two lines with differing slopes.</description>
+    </item>
     
     <item>
       <title>Working through DataCamp’s: Introduction to Machine Learning with R</title>

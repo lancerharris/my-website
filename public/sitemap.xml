@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/01/19/notes-on-datacamp-s-course-multiple-and-logistic-regression/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/01/09/working-through-datacamp-s-introduction-to-machine-learning-with-r/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
@@ -24,13 +29,19 @@
   
   <url>
     <loc>/tags/datacamp/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/logistic-regression/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,8 +52,14 @@
   </url>
   
   <url>
+    <loc>/tags/multiple-regression/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,7 +71,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
